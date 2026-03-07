@@ -22,7 +22,7 @@ It allows developers to fetch **Post Office details using a PIN Code**.
 PinLookup
  ├── app.py
  ├── README.md
- └── requirements.txtmd
+ └── requirements.txt
 ```
 
 ---
