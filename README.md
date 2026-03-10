@@ -8,7 +8,7 @@ It allows developers to fetch **Post Office details using a PIN Code**.
 
 ## 🚀 Features
 
-* 🔎 Lookup Indian PIN Code details
+*🔎 Lookup Indian PIN Code details
 * 📦 Returns Post Office information in JSON format
 * ⚡ Fast API built with Flask
 * 🌐 CORS enabled for frontend integration
